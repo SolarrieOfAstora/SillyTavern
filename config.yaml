@@ -20,7 +20,7 @@ enableCorsProxy: false
 securityOverride: false
 # -- ADVANCED CONFIGURATION --
 # Open the browser automatically
-autorun: true
+autorun: false
 # Disable thumbnail generation
 disableThumbnails: false
 # Thumbnail quality (0-100)
